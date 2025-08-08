@@ -5,6 +5,6 @@ Ollama:
 Web-UI:
 
 
-# C# dode base
+# C# code base
 Project is made with Visual Studio 2022 and is based on Dot net 8.0
 
