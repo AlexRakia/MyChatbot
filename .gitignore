@@ -1,0 +1,5 @@
+/MyChatBot/.vs
+/MyChatBot/MyChatBot/obj
+/MyChatBot/MyChatBot/bin
+/MyChatBot/Output/Debug
+/MyChatBot/Output/Release/net8.0/*.pdb
