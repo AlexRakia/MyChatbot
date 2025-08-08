@@ -1,0 +1,23 @@
+Browse To settings -- Admin panel:
+http://localhost:3004/auth?redirect=%2F
+Create an admin account.  
+Give it a name, email and password.
+Example (not secured):  User: admin,  Pass: admin 
+ - Pull a model From Ollama.com --> And give it: 
+Lets start with:  llama3.1
+
+Librarry --- https://ollama.com/library
+llama3.2
+codellama - generating and discussing code
+deepseek-coder - capable coding model trained on two trillion code and natural language
+gemma - Llama cometitor - Gemma is a family of lightweight, state-of-the-art open models built by Google DeepMind. Updated to version 1.1
+codegemma - CodeGemma is a collection of powerful, lightweight models that can perform a variety of coding tasks like fill-in-the-middle code completion, code generation, natural language understanding, mathematical reasoning, and instruction following.
+codeup -  A Multilingual Code Generation
+qwen2.5-coder - Coding - Alibaba
+ALIENTELLIGENCE/cyberaisecurityv2
+Echo ALIENTELLIGENCE/cengineer - AI C++ Engineer is skilled in integrating artificial intelligence techniques with advanced C++ programming.
+Echo sqlcoder	- text to SQL generation
+mistral - Llama cometitor - released by Mistral AI
+Echo llava - end-to-end trained large multimodal model that is designed to understand and generate content based on both visual inputs (images) and textual instructions.
+
+pause
